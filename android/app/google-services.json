@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869598225229",
+    "project_id": "goatripapb",
+    "storage_bucket": "goatripapb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869598225229:android:04bd31d260e263811b8d04",
+        "android_client_info": {
+          "package_name": "com.example.tubesgabungan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869598225229-1ait7j6dt0gu7dc3791p05fdgcq1ghr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy3vwjg58V8-hbv2jlgX9leIp5Lgw6HtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869598225229-1ait7j6dt0gu7dc3791p05fdgcq1ghr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
